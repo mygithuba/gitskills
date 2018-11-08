@@ -1,1 +1,2 @@
-Creating a new brench is quick & simple.
+Creating a new brench is quick AND simple.
+
